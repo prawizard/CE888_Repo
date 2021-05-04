@@ -1,0 +1,9 @@
+The deployed (on Heroku) ML Application can be found at: 
+
+https://ml-uci-heart-disease.herokuapp.com
+
+The repository created to deploy the app can be found at:
+
+https://github.com/prawizard/ML_HeartDisease_UCI_Deployment
+
+
